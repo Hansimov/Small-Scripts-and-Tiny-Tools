@@ -24,7 +24,9 @@ It enhances the capabilities of the original GitHub issue comments editor.
 * [ ] Remove the `Styling with Markdown is supported` text
 * [x] Take a look at the preview render engine: https://github.com/DrewML/octo-preview
 * [ ] Update preview with fixed interval or after two or three inputs
+* [ ] Remove the `Loading preview ...` page
 * [ ] Reply to Mottie's comment
+* [ ] Add a word counter
 * [ ] Fix potential bugs
 
 
