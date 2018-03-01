@@ -13,18 +13,19 @@ It enhances the capabilities of the original GitHub issue comments editor.
 
 **Todo:**
 
-* Add more detailed instructions with pictures
-* Apply this userscript to more GitHub websites
-* Choose an appropriate icon
-* Modify the layout of the slider and button
-* Have a try at GitHub Wide
-* Hide `Preview` tab
-* Clear preview content after the new comment is submitted
-* Synchronize this userscript with Tampermonkey website
-* Remove the `Styling with Markdown is supported` text
-* Have a try at the preview render engine: https://github.com/DrewML/octo-preview
-* Reply to Mottie's comment
-* Fix potential bugs
+* [ ] Add more detailed instructions with pictures
+* [ ] Apply this userscript to more GitHub websites
+* [ ] Choose an appropriate icon
+* [ ] Modify the layout of the slider and button
+* [ ] Have a try at GitHub Wide
+* [ ] Hide `Preview` tab
+* [ ] Clear preview content after the new comment is submitted
+* [ ] Synchronize this userscript with Tampermonkey website
+* [ ] Remove the `Styling with Markdown is supported` text
+* [x] Take a look at the preview render engine: https://github.com/DrewML/octo-preview
+* [ ] Update preview with fixed interval or after two or three inputs
+* [ ] Reply to Mottie's comment
+* [ ] Fix potential bugs
 
 
 **References:**
