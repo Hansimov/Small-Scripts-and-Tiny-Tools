@@ -34,6 +34,8 @@ It enhances the capabilities of the original GitHub issue comments editor.
     * [ ] Clear preview content after the new comment is submitted
     * [x] Synchronize this userscript with Tampermonkey
     * [ ] Add a word counter
+    * [ ] Add more keyboard shortcuts
+    * [ ] Export to `.md` and `.html` files
     * [ ] Improve markdown preview engine:
         * [x] Take a look at the preview render extension: https://github.com/DrewML/octo-preview
         * [ ] Update preview with fixed interval or after certain number of inputs (debounce or throttle)
