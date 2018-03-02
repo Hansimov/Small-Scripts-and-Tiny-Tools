@@ -39,6 +39,7 @@ It enhances the capabilities of the original GitHub issue comments editor.
         * [ ] Update preview with fixed interval or after certain number of inputs (debounce or throttle)
         * [x] Remove the `Loading preview ...` page
         * [x] Use a new engine: https://github.com/markedjs/marked
+        * [ ] Support `:emoji:`
     * [ ] Fix potential bugs
     
 * Documents
