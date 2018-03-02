@@ -42,14 +42,19 @@ It enhances the capabilities of the original GitHub issue comments editor.
         * [x] Remove the `Loading preview ...` page
         * [x] Use a new engine: https://github.com/markedjs/marked
         * [ ] Support `:emoji:`
+        * [ ] Support 4-level list
     * [ ] Fix potential bugs
     
 * Documents
     * [ ] Add installation tutorials 
     * [ ] Add GIFs to show effects
+        * [ ] Resize editor width
+        * [ ] Real-time preview
+        * [ ] Hide/show sidebar
 
 * Miscellaneous
-    * [ ] Reply to Mottie's comment
+    * [x] Reply to Mottie's comment
+    * [ ] Reply to darkred's comment
 
 ## References
 
