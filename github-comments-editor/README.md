@@ -23,10 +23,10 @@ It enhances the capabilities of the original GitHub issue comments editor.
 * [ ] Synchronize this userscript with Tampermonkey website
 * [ ] Remove the `Styling with Markdown is supported` text
 * [ ] Improve markdown preview engine:
-      * [x] Take a look at the preview render extension: https://github.com/DrewML/octo-preview
-      * [ ] Update preview with fixed interval or after two or three inputs
-      * [ ] Remove the `Loading preview ...` page
-      * [ ] Use a new engine: https://github.com/markedjs/marked
+    * [x] Take a look at the preview render extension: https://github.com/DrewML/octo-preview
+    * [ ] Update preview with fixed interval or after two or three inputs
+    * [ ] Remove the `Loading preview ...` page
+    * [ ] Use a new engine: https://github.com/markedjs/marked
 * [ ] Reply to Mottie's comment
 * [ ] Add a word counter
 * [ ] Fix potential bugs
