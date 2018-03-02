@@ -13,24 +13,31 @@ It enhances the capabilities of the original GitHub issue comments editor.
 
 **Todo:**
 
-* [ ] Add more detailed instructions with pictures
-* [ ] Apply this userscript to more GitHub websites
-* [ ] Choose an appropriate icon
-* [ ] Modify the layout of the slider and button
-* [ ] Have a try at GitHub Wide
-* [ ] Hide `Preview` tab
-* [ ] Clear preview content after the new comment is submitted
-* [ ] Synchronize this userscript with Tampermonkey website
-* [ ] Remove the `Styling with Markdown is supported` text
-* [ ] Improve markdown preview engine:
-    * [x] Take a look at the preview render extension: https://github.com/DrewML/octo-preview
-    * [ ] Update preview with fixed interval or after two or three inputs
-    * [ ] Remove the `Loading preview ...` page
-    * [ ] Use a new engine: https://github.com/markedjs/marked
-* [ ] Reply to Mottie's comment
-* [ ] Add a word counter
-* [ ] Fix potential bugs
+* Appearances:
+    * [ ] Choose an appropriate icon
+    * [ ] Modify the layout of the slider and button
+    * [ ] Have a try at GitHub Wide
+    * [ ] Hide `Preview` tab
+    * [ ] Remove the `Styling with Markdown is supported` text
+    
+* Functions:
+    * [ ] Apply this userscript to more GitHub websites
+    * [ ] Clear preview content after the new comment is submitted
+    * [x] Synchronize this userscript with Tampermonkey
+    * [ ] Add a word counter
+    * [ ] Improve markdown preview engine:
+        * [x] Take a look at the preview render extension: https://github.com/DrewML/octo-preview
+        * [ ] Update preview with fixed interval or after two or three inputs
+        * [ ] Remove the `Loading preview ...` page
+        * [ ] Use a new engine: https://github.com/markedjs/marked
+    * [ ] Fix potential bugs
+    
+* Documents:
+    * [ ] Add installation tutorials 
+    * [ ] Add GIFs to show effects
 
+* Miscellaneous 
+    * [ ] Reply to Mottie's comment
 
 **References:**
 
