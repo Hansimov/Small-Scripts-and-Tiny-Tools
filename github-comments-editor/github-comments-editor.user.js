@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GitHub Issue Comment Editor Plus
+// @name         github-comments-editor
 // @namespace    https://github.com/Hansimov
 // @version      1.1
 // @description  Enhance the capabilities of GitHub issue comment editor, including real-time previewing, resizing width of comments and hiding sidebar.
@@ -195,7 +195,7 @@
             (function () {
                 var i = k;
                 area_of_write[i].onkeyup = function (event){
-                    console.log(event.key);
+                    // console.log(event.key);
                     if (checkKeyType(event.key)){
                         area_of_preview[i].innerHTML = md2html(area_of_write[i].value);
                     }
