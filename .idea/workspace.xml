@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4b3c916d-d44b-469b-9f76-d18164e9a8c9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/github-comments-editor/README.md" afterPath="$PROJECT_DIR$/github-comments-editor/README.md" />
+      <change beforePath="$PROJECT_DIR$/github-comments-editor/github-comments-editor.user.js" afterPath="$PROJECT_DIR$/github-comments-editor/github-comments-editor.user.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/github-comments-editor/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="156">
-                <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <first_editor relative-caret-position="422">
+                <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -138,12 +139,12 @@
       <updated>1519969467413</updated>
       <workItem from="1519969468923" duration="32000" />
       <workItem from="1519969512238" duration="746000" />
-      <workItem from="1519970678214" duration="2819000" />
+      <workItem from="1519970678214" duration="5058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3597000" />
+    <option name="totallyTimeSpent" value="5836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -225,8 +226,8 @@
     <entry file="file://$PROJECT_DIR$/github-comments-editor/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="156">
-            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <first_editor relative-caret-position="422">
+            <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
             <folding />
           </first_editor>
           <second_editor />

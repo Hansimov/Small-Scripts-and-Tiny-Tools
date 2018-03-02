@@ -36,9 +36,9 @@ It enhances the capabilities of the original GitHub issue comments editor.
     * [ ] Add a word counter
     * [ ] Improve markdown preview engine:
         * [x] Take a look at the preview render extension: https://github.com/DrewML/octo-preview
-        * [ ] Update preview with fixed interval or after two or three inputs
-        * [ ] Remove the `Loading preview ...` page
-        * [ ] Use a new engine: https://github.com/markedjs/marked
+        * [ ] Update preview with fixed interval or after certain number of inputs (debounce or throttle)
+        * [x] Remove the `Loading preview ...` page
+        * [x] Use a new engine: https://github.com/markedjs/marked
     * [ ] Fix potential bugs
     
 * Documents
@@ -50,9 +50,14 @@ It enhances the capabilities of the original GitHub issue comments editor.
 
 ## References
 
-* Conversations of this userscript with Mottie: 
+* Conversations of this userscript with Mottie
     * https://github.com/Mottie/GitHub-userscripts/pull/38
-* marked: A markdown parser and compiler: 
+* markedjs: A markdown parser and compiler. Built for speed.
     * https://github.com/markedjs/marked
-* GitHub Flavored Markdown Spec: 
+    * https://github.com/markedjs/marked/blob/master/USAGE_ADVANCED.md
+    * https://github.com/markedjs/marked/raw/master/marked.min.js
+* GitHub Flavored Markdown Spec
     * https://github.github.com/gfm/
+* requirejs: A file and module loader for JavaScript
+    * http://requirejs.org/
+    * https://github.com/requirejs/requirejs
