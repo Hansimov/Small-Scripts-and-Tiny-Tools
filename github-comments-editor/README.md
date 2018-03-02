@@ -1,7 +1,15 @@
+## Introduction
+
 This userscript works at `https://github.com/*/issues/*`.
+
 It enhances the capabilities of the original GitHub issue comments editor.
 
-**Main features of this userscript:**
+
+## Installation
+
+## Usage
+
+## Main features of this userscript
 
 * Display the area of `Write` and `Preview` side by side at the same time
 * Real-time preview the markdown of the writing content
@@ -11,16 +19,17 @@ It enhances the capabilities of the original GitHub issue comments editor.
 * Auto-resize the textarea when the contents of comments are changed
 * Show the originally hidden editor toolbar while previewing
 
-**Todo:**
 
-* Appearances:
+## Todo
+
+* Appearances
     * [ ] Choose an appropriate icon
     * [ ] Modify the layout of the slider and button
     * [ ] Have a try at GitHub Wide
     * [ ] Hide `Preview` tab
     * [ ] Remove the `Styling with Markdown is supported` text
     
-* Functions:
+* Functions
     * [ ] Apply this userscript to more GitHub websites
     * [ ] Clear preview content after the new comment is submitted
     * [x] Synchronize this userscript with Tampermonkey
@@ -32,13 +41,18 @@ It enhances the capabilities of the original GitHub issue comments editor.
         * [ ] Use a new engine: https://github.com/markedjs/marked
     * [ ] Fix potential bugs
     
-* Documents:
+* Documents
     * [ ] Add installation tutorials 
     * [ ] Add GIFs to show effects
 
-* Miscellaneous 
+* Miscellaneous
     * [ ] Reply to Mottie's comment
 
-**References:**
+## References
 
-* https://github.com/Mottie/GitHub-userscripts/pull/38
+* Conversations of this userscript with Mottie: 
+    * https://github.com/Mottie/GitHub-userscripts/pull/38
+* marked: A markdown parser and compiler: 
+    * https://github.com/markedjs/marked
+* GitHub Flavored Markdown Spec: 
+    * https://github.github.com/gfm/
