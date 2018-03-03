@@ -31,6 +31,11 @@ It enhances the capabilities of the original GitHub issue comments editor.
     
 * Functions
     * [ ] Apply this userscript to more GitHub websites
+        * [ ] Pull requests
+        * [ ] Wikis
+        * [ ] Discussions
+    * [ ] Load the userscript immediately without freshing when jumping from the main page
+    * [ ] Apply this userscript to new issue
     * [ ] Clear preview content after the new comment is submitted
     * [x] Synchronize this userscript with Tampermonkey
     * [ ] Add a word counter
@@ -42,7 +47,6 @@ It enhances the capabilities of the original GitHub issue comments editor.
         * [x] Remove the `Loading preview ...` page
         * [x] Use a new engine: https://github.com/markedjs/marked
         * [ ] Support `:emoji:`
-        * [ ] Support 4-level list
     * [ ] Fix potential bugs
     
 * Documents
