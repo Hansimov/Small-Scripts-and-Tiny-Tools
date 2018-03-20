@@ -182,8 +182,9 @@
 
         function checkKeyType(key) {
             var trigger_keys = [' ', 'Control', 'Enter', 'Backspace', 'Delete',
-                                ',', '.', '!', '?',';', ':', '\\', '-', '_', '=', '+',
-                                '(', ')', '[', ']', '{', '}', '\'', '"', '^', '*'];
+                                '0','1','2','3','4','5','6','7','8','9',
+                                ',', '.', '!', '?',';', ':', '\\','/', '-', '_', '=', '+',
+                                '(', ')', '[', ']', '{', '}', '\'', '"', '^', '*','`'];
             if (trigger_keys.indexOf(key) > -1) {
                 return true;
             } else {
@@ -195,7 +196,7 @@
             (function () {
                 var i = k;
                 area_of_write[i].onkeyup = function (event){
-                    console.log(event.key);
+                    // console.log(event.key);
                     if (checkKeyType(event.key)){
                         area_of_preview[i].innerHTML = md2html(area_of_write[i].value);
                     }

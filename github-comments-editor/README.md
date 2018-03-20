@@ -35,10 +35,10 @@ It enhances the capabilities of the original GitHub issue comments editor.
         * [ ] Wikis
         * [ ] Discussions
     * [ ] Load the userscript immediately without freshing when jumping from the main page
-    * [ ] Apply this userscript to new issue
+    * [ ] Apply this userscript to `New issue`
     * [x] Synchronize this userscript with Tampermonkey
     * [ ] Add a word counter
-    * [ ] Add more keyboard shortcuts
+    * [ ] Add keyboard shortcuts
     * [ ] Export to `.md` and `.html` files
     * [ ] Improve markdown preview engine:
         * [x] Take a look at the preview render extension: https://github.com/DrewML/octo-preview
@@ -47,6 +47,7 @@ It enhances the capabilities of the original GitHub issue comments editor.
         * [x] Use a new engine: https://github.com/markedjs/marked
         * [ ] Support `:emoji:`
         * [ ] Clear preview content after the new comment is submitted
+		* [ ] Support image links outside github websites
     * [ ] Fix potential bugs
     
 * Documents
@@ -58,7 +59,7 @@ It enhances the capabilities of the original GitHub issue comments editor.
 
 * Miscellaneous
     * [x] Reply to Mottie's comment
-    * [ ] Reply to darkred's comment
+    * [x] Reply to darkred's comment
 
 ## References
 
