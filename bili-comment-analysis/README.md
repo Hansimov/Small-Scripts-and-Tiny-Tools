@@ -1,1 +1,0 @@
-This script is used to analyse and visualize the comments of bilibili videos.
